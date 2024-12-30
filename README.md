@@ -5,11 +5,11 @@ yarn install
 npm install
 npm start
 ```
-Add this CC token as manually into your wallet on EduChain  Chain
+Add this CC token as manually into your wallet on FLOW  Chain
 
-Contract Address = 0x713953192caada74026dd0009a69a637a0ce30fb
+Contract Address = 0x1130FAa5c22b6a10b2Ad243998DD962d0569e423
 
-Verify this Contract -> [Verify CC](https://edu-chain-testnet.blockscout.com/token/0x713953192CaAdA74026DD0009A69A637a0ce30fB)
+Verify this Contract -> [Verify CC](https://evm-testnet.flowscan.io/token/0x1130FAa5c22b6a10b2Ad243998DD962d0569e423)
 
 ---
 
@@ -25,7 +25,7 @@ Verify this Contract -> [Verify CC](https://edu-chain-testnet.blockscout.com/tok
 - **Future Direct Deployment**: Soon, you'll be able to deploy contracts directly from the platform.
 - **Wallet Integration**: Integrated wallet support for seamless interactions.
 - **Earn by Interacting**: The more you interact with AI, the more CC tokens you can earn and claim.
-- **Token on EduChain Chain Testnet**: CC tokens are available on the EduChain Chain testnet.
+- **Token on FLOW Chain Testnet**: CC tokens are available on the FLOW Chain testnet.
 
 ## Overview
 
